@@ -11,7 +11,7 @@ Command options
 * -a --account               Id of account you are trying to bruteforce
 * -d --deeper                Add this option if you want to test combinations of 3 passwords
 * -f --pfile         Path to file where you have all possible password you could use in some form.
-* -g --gethdir               Pass here your geth location if it different from default. By default it is searched in C:\Users\maxpo\AppData\Roaming\Mist\binaries\Geth\unpacked
+* -g --gethdir               Pass here your geth location if it different from default. By default it is searched in C:\Users\*your user folder*\AppData\Roaming\Mist\binaries\Geth\unpacked
 * -p --passes                You can pass here your passwords directly, but remember that it is less secure!
 * -s --skiprussian           Pass this if you don't have russian keyboard layout.
 
