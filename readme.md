@@ -1,6 +1,6 @@
 Welcome to TryPasses. 
 =====================
-This software has been developed for unlocking ethereum accounts, whose passwords you can not remember.
+This software has been developed for unlocking ethereum accounts, whose passwords you can not remember. It is Windows only.
 You pass here all passwords you could use either by file or directly to console, and program combines them in pairs.
 It also uses CAPSLOCKED versions of passwords and for russian users also uses incorrect(Russian) layout version.
 It is working with geth used by Mist, so you should have Mist installed.
@@ -84,6 +84,7 @@ Usage
 This app is free to use, but donations are welcome!
 
 0xBfD86078A4581c92302E87Cd6687B09CB1663A85 (ETH)
+
 1EVRYSRL9CARRBv6NZhSPiLv29eua33iSN (BTC)
 
 Good luck at restoring your wallet!
